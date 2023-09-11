@@ -1,0 +1,4 @@
+/spotify-client/node_modules
+/spotify-server/node_modules
+/spotify-client/.env
+/spotify-server/.env
